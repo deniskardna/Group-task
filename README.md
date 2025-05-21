@@ -24,7 +24,7 @@ b. On the Exclude tab,I selected Users and groups.
 
 a. On the Include tab, (formerly 'All cloud apps').
 
-I Choose Select resources >> select >> CV Submission App.
+- I Choose Select resources >> select >> CV Submission App.
 
 - Enable policy to On by selecting create
 
